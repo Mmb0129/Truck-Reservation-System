@@ -1,0 +1,4 @@
+Truck ID: TN72BC0009
+Owner Name: John
+Availability: true
+

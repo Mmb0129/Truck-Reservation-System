@@ -1,0 +1,60 @@
+OOPS
+Source:     Nellai
+Destination:     KK
+Truck Type:     Trailer Truck
+Load Description:     Wheat
+Pickup Date: 2024-01-10
+Weight: 2.0
+Distance: 100.0
+Price: 2073.6
+
+Micheal
+Source:    Tada
+Destination:    Caterpillar
+Truck Type:    Trailer Truck
+Load Description:    Steel
+Pickup Date: 2024-01-07
+Weight: 14.0
+Distance: 75.0
+Price: 2203.0
+
+Micheal
+Source:    Vazhaithottam
+Destination:    SSNCE
+Truck Type:    Trailer Truck
+Load Description:    Wood
+Pickup Date: 2024-01-15
+Weight: 14.0
+Distance: 740.0
+Price: 4975.2
+
+Micheal
+Source:   Chennai
+Destination:   Thisayanvilai
+Truck Type:   Trailer Truck
+Load Description:   Container
+Pickup Date: 2024-01-10
+Weight: 20.0
+Distance: 750.0
+Price: 5031.0
+
+Micheal
+Source:  Nellai
+Destination:  Vazhai
+Truck Type:  Trailer Truck
+Load Description:  Steel
+Pickup Date: 2024-01-10
+Weight: 10.0
+Distance: 60.0
+Price: 1908.0
+
+Mich
+Source: Tvl
+Destination: Nellai
+Truck Type: Mini Truck
+Load Description: Rice
+Pickup Date: 2024-01-10
+Weight: 1.0
+Distance: 10.0
+Price: 946.8000000000001
+
