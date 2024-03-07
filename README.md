@@ -127,8 +127,7 @@ If you have any feedback, please reach out to us at truckreservationsystem@gmail
 
 
 ## Authors
-
-- Madumitha E
 - Micheal Berdinanth M
 - Nandhalal S
+- Madumitha E
 
